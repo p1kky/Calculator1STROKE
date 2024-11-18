@@ -1,0 +1,1 @@
+print(f"Answer is - {eval(input('Enter your problem:\n- '))}")
